@@ -11,3 +11,7 @@ end
 def input_to_index("") 
   
 end
+
+def move(array, index, value)
+  
+end  
